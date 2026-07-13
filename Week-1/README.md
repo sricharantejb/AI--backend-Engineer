@@ -45,7 +45,7 @@ http://127.0.0.1:5000/
 
 ## Learning Outcome
 
-This project helped me understand how APIs work and how to build a simple backend application using Flask.
+In this week-1 I understand how APIs work and how to build a simple backend application using Flask.
 
 ## Author
 
