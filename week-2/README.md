@@ -38,7 +38,7 @@ docker compose up
 
 ## Learning Outcome
 
-This project helped me understand how to connect a backend application to a PostgreSQL database using Docker and how to keep data safe even after restarting the containers.
+In this week-2 I understand that how to connect a backend application to a PostgreSQL database using Docker and how to keep data safe even after restarting the containers.
 
 ## Author
 
