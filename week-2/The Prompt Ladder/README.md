@@ -1,4 +1,4 @@
-Prompt Engineering Ladder
+## The Prompt Ladder
 
 ## Overview
 
