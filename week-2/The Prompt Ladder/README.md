@@ -1,4 +1,4 @@
-# FL-02 - Prompt Engineering Ladder
+Prompt Engineering Ladder
 
 ## Overview
 
