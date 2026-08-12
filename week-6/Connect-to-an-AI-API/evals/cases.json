@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "message": "I was charged twice for the same order.",
+    "expected_category": "billing"
+  },
+  {
+    "id": 2,
+    "message": "The website crashes every time I try to upload a PDF.",
+    "expected_category": "technical"
+  },
+  {
+    "id": 3,
+    "message": "I cannot log into my account because my password reset email never arrives.",
+    "expected_category": "account"
+  },
+  {
+    "id": 4,
+    "message": "My package was supposed to arrive yesterday but it is still not here.",
+    "expected_category": "shipping"
+  },
+  {
+    "id": 5,
+    "message": "I want a refund for the product I purchased last week.",
+    "expected_category": "refund"
+  },
+  {
+    "id": 6,
+    "message": "Everything is working well. Thank you for the excellent service.",
+    "expected_category": "general"
+  },
+  {
+    "id": 7,
+    "message": "Someone appears to have accessed my account and changed my password.",
+    "expected_category": "account"
+  },
+  {
+    "id": 8,
+    "message": "The payment page gives me an error whenever I try to pay.",
+    "expected_category": "technical"
+  }
+]
